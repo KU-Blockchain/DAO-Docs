@@ -16,7 +16,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://dao.kublockchain.com/dashboard/",
+  url: "https://dao.kublockchain.com/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -87,9 +87,15 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Getting Started",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          {
+            type: "docSidebar",
+            sidebarId: "tutorialSidebar",
+            position: "left",
+            label: "Contribute",
+          },
           {
             href: "https://github.com/KU-Blockchain/KUBI-DAO-Poa",
             label: "GitHub",

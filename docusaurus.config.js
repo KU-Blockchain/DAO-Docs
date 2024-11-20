@@ -10,9 +10,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "The University of Kansas Blockchain DAO",
+  title: "KUBI DAO Docs",
   tagline:
-    "A decentralized autonomous organization for the University of Kansas",
+    "Documentation for the KUBI DAO: a decentralized autonomous organization founded at the University of Kansas",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -77,7 +77,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "KUBI DAO",
+        title: "KUBI DAO Docs",
         logo: {
           alt: "KUBI DAO Logo",
           src: "img/logo.svg",
@@ -113,16 +113,12 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
                 label: "Discord",
                 href: "https://discord.gg/JupN3FqKXJ",
               },
               {
-                label: "X",
-                href: "https://x.com/docusaurus",
+                label: "Instagram",
+                href: "https://www.instagram.com/kublockchain/",
               },
             ],
           },

@@ -21,7 +21,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            KUBI DAO
+            Visit official KUBI DAO Site
           </Link>
         </div>
       </div>

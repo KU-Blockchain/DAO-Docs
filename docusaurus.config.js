@@ -87,15 +87,9 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Getting Started",
+            label: "Docs",
           },
           { to: "/blog", label: "Blog", position: "left" },
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Contribute",
-          },
           {
             href: "https://github.com/KU-Blockchain/KUBI-DAO-Poa",
             label: "GitHub",
@@ -110,8 +104,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "About",
+                to: "/docs/about",
               },
             ],
           },

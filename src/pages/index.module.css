@@ -1,13 +1,11 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(270deg, #ad0d0d, #007cf0); /* Changing to a blue to purple gradient */
+  background-size: 400% 400%; /* Keeping the large size to enhance the animation */
+  animation: GradientShift 15s ease infinite;
 }
 
 @media screen and (max-width: 996px) {
@@ -20,4 +18,16 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+@keyframes GradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }

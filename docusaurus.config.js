@@ -80,7 +80,7 @@ const config = {
         title: "KUBI DAO Docs",
         logo: {
           alt: "KUBI DAO Logo",
-          src: "img/logo.svg",
+          src: "img/kubi_logo.png",
         },
         items: [
           {

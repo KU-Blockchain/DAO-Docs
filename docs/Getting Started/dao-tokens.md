@@ -3,15 +3,17 @@ sidebar_position: 2
 sidebar_label: Tokens of the DAO
 ---
 
-# Understanding Tokens in Our DAO
+# Understanding Tokens in The DAO
 
-Welcome to our guide on understanding the digital tokens used in our DAO! This document will explain what these tokens are, how they work, and why they are important. We will focus on three main types of tokens: KUBIX tokens, Executive NFTs, and Membership tokens.
+While you don't need a deep understanding of KUBI tokens to use the DAO, this is a helpful introduction to understanding the basics of what these tokens are, how they work, and why they are important. There are 3 three main tokens used in the DAO: KUBIX tokens, Executive NFTs, and Membership tokens.
 
-## What are Tokens?
+None of these tokens have any monetary value and are designed to ensure fair voting, participation tracking, and admin priviliges.
+
+## First, what are Tokens?
 
 In the context of blockchain and cryptocurrencies, a token represents a unit of value issued by an organization or project. It can have various uses such as granting access to services, representing voting power, or even as a reward system. Tokens are digital and can be transferred between individuals or entities on a blockchain network.
 
-## KUBIX Tokens
+## 1. KUBIX Tokens
 
 ### Overview
 

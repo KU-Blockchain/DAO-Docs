@@ -95,6 +95,11 @@ const config = {
             label: "GitHub",
             position: "right",
           },
+          {
+            href: "https://dao.kublockchain.com/dashboard/",
+            label: "DAO",
+            position: "right",
+          },
         ],
       },
       footer: {

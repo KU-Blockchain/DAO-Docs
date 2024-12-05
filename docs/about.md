@@ -11,9 +11,9 @@ This page gives an overview of the DAO for all audiences. To get a deeper unders
 
 ## What is the DAO?
 
-The KU Blockchain DAO (Decentralized Autonomous Organization) is a decentralized platform where members can contribute to tasks, vote on proposals, and influence decisions for KUBI. The DAO creates an open governance structure as a result. The tasks members can complete include anything from voting on community initiatives, learning from modules, or completing miscellaneous tasks.
+The KU Blockchain DAO (Decentralized Autonomous Organization) is a decentralized platform where members can earn rewards for contributing to community tasks, vote on proposals to influence community decisions. The DAO creates an open governance structure as a result, meaning anyone can earn rewards for their contributions and move up the leaderboard. The tasks members can complete include anything from voting on community initiatives, learning from modules, or completing miscellaneous tasks.
 
-We have a whole article on the history of the KUBI DAO, if you're interested in learning more!
+While you don't need to deeply understand these things to get started, we've also created tons of resources on things like the **[history of the KUBI DAO]**(), 
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 

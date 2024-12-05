@@ -25,6 +25,17 @@ const sidebars = {
     "about",
     {
       type: "category",
+      label: "The Very Basics",
+      items: [
+        "the-very-basics/overview",
+        "the-very-basics/understanding-blockchain",
+        "the-very-basics/understanding-smart-contracts",
+        "the-very-basics/understanding-tokens",
+         "the-very-basics/understanding-DAOs",
+      ],
+    },
+    {
+      type: "category",
       label: "Get Started with the DAO",
       items: [
         "get-started/overview",

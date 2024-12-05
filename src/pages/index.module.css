@@ -6,6 +6,7 @@
   background: linear-gradient(270deg, #ad0d0d, #007cf0); /* Changing to a blue to purple gradient */
   background-size: 400% 400%; /* Keeping the large size to enhance the animation */
   animation: GradientShift 15s ease infinite;
+  color: #ffffff;
 }
 
 @media screen and (max-width: 996px) {

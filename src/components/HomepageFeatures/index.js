@@ -4,7 +4,7 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Where we Learn by Doing",
+    title: "Learn by Building",
     Svg: require("@site/static/img/learn-by-doing.svg").default,
     description: (
       <>
@@ -16,7 +16,7 @@ const FeatureList = [
     ),
   },
   {
-    title: "Where All Contributions Matter",
+    title: "All Contributions Matter",
     Svg: require("@site/static/img/contributions-matter.svg").default,
     description: (
       <>
@@ -27,7 +27,7 @@ const FeatureList = [
     ),
   },
   {
-    title: "Where Every Voice is Heard",
+    title: "Every Voice is Heard",
     Svg: require("@site/static/img/voices-are-heard.svg").default,
     description: (
       <>

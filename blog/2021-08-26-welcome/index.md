@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [emma]
+authors: []
 tags: [facebook, hello, docusaurus]
 ---
 

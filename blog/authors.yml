@@ -1,24 +1,24 @@
-emma:
+emma_nasseri:
   name: Emma Nasseri
-  title: 2022-2023 KUBI President
-  url: https://github.com/yangshun
-  image_url:
+  title: 2022-2024 KUBI President
+  url: https://www.emmanasseri.com/
+  image_url: /img/headshots/emma_nasseri.jpeg
   page: true
   socials:
-    x: emmanasseri
+    # x: emmanasseri
     linkedin: emma-nasseri
     github: emmanasseri
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: "/all-sebastien-lorber-articles"
+micah_borghese:
+  name: Micah Borghese
+  title: 2024-2025 KUBI President
+  url: https://github.com/micahborg
+  image_url: /img/headshots/micah_borghese.jpeg
+  #page:
+  # customize the url of the author page at /blog/authors/<permalink>
+  #permalink: "/all-sebastien-lorber-articles"
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    # x: sebastienlorber
+    linkedin: micah-borghese
+    github: micahborg

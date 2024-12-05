@@ -1,7 +1,7 @@
 ---
 slug: history-of-the-KUBI-DAO
 title: History of the KUBI DAO
-authors: [emma, slorber]
+authors: [emma_nasseri, micah_borghese]
 tags: []
 ---
 

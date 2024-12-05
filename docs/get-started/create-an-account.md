@@ -42,7 +42,7 @@ Polygon uses Matic tokens for transaction fees. To interact with our DAO, you'll
 2. **Visit the Polygon Faucet**:
 
    - Go to the [Polygon Faucet](https://faucet.polygon.technology/).
-   - Select the "Mumbai" network, as it's the test network for Polygon.
+   - Select the "Amoy" network, as it's the test network for Polygon.
 
 3. **Receive Matic Tokens**:
    - Paste your wallet address into the faucet's address field.
@@ -58,7 +58,7 @@ To participate in our DAO, you need to create a username associated with your KU
 
 1. **Access the DAO Platform**:
 
-   - Navigate to our DAO's website.
+   - Navigate to the [DAO site](https://dao.kublockchain.com/dashboard/).
 
 2. **Sign Up for an Account**:
 

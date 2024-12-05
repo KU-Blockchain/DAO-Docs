@@ -21,11 +21,11 @@ For a more technical description of tokens, go to [Understanding Tokens](../the-
 
 100 Direct Democracy tokens are issued to each member who joins our DAO.
 
-![Direct Democracy Tokens](./img/dd_tokens.png "Direct Democracy Tokens")
+![Direct Democracy Tokens](./img/dao-tokens/dd_tokens.png "Direct Democracy Tokens")
 
 But why have 100 tokens, instead of just one?
 
-![Direct Democracy Explainer](./img/dd_tokens_explainer.png "Direct Democracy Tokens Explained")
+![Direct Democracy Explainer](./img/dao-tokens/dd_tokens_explainer.png "Direct Democracy Tokens Explained")
 
 Quadratic voting is a voting system that allows participants to more accurately express their preferences about multiple options.
 
@@ -33,7 +33,7 @@ Quadratic voting is a voting system that allows participants to more accurately 
 
 ## KUBIX Tokens
 
-![KUBIX Tokens](./img/participation_tokens.png "The Participation Token")
+![KUBIX Tokens](./img/dao-tokens/participation_tokens.png "The Participation Token")
 
 KUBIX tokens are the participation token of the DAO. They are used to recognize members for their participation.
 
@@ -45,12 +45,12 @@ Members can earn KUBIX by **attending meetings**, **completing community tasks**
 
 NFTs, or Non-Fungible Tokens, are unique digital tokens that represent ownership of a specific item or privilege. In our DAO, Executive NFTs are special tokens that grant the holder executive privileges.
 
-![Executive NFTs](./img/executive_nfts.png "Executive NFTs")
+![Executive NFTs](./img/dao-tokens/executive_nfts.png "Executive NFTs")
 
 ## How does this all fit together?
 
 Here's an example of **KUBIX** and **Executive NFTs** are important through the lifecycle of a community task.
-![Task Lifecycle](./img/task_lifecycle.png "Task Lifecycle")
+![Task Lifecycle](./img/dao-tokens/task_lifecycle.png "Task Lifecycle")
 
 ### If you're confused...
 

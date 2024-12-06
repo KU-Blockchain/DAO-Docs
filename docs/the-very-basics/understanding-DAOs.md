@@ -2,13 +2,23 @@
 sidebar_label: Understanding DAOs
 ---
 
-# What is a DAO?
+# Definition of a DAO
 
-The term "DAO" can mean a lot of things. Technicall, the term DAO stands for "Decentralized Autonomous Organization."
+![DAO Definition](./img/dao_definition.png "DAO Definition")
+
+The term "DAO" can mean a lot of things. It stands for **"Decentralized Autonomous Organization."**
+
+Let's start by breaking down the literal definition.
+
+- **Decentralized**: Not controlled by a single entity or central authority. In the context of a DAO, this means that control is spread across all members who have a stake or a role, rather than being concentrated in the hands of a few.
+- **Autonomous**: Able to operate independently without the need for human intervention. A DAO operates according to rules encoded as computer programs called [smart contracts](understanding-smart-contracts), which automatically execute decisions based on the inputs from its members.
+- **Organization**: A group of individuals who come together for a common purpose. In a DAO, this group collaboratively makes decisions and manages resources collectively, leveraging blockchain technology to ensure transparency and fairness.
+
+# DAOs in Practice
 
 DAO is often interpreted to mean any organization with smart contract based governance. DAOs are commonly seen as efficient ways for a distributed group of people to organize online to make governance decisions or manage a pool of shared funds.
 
-## Well-known DAOs
+### Well-known DAOs
 
 1. **[Uniswap DAO](https://uniswap.org/)**
 

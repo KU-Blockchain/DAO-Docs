@@ -27,7 +27,7 @@ If you see errors with these docs or want to create new articles, here are the i
 
 ### 1. Check that you have all requirements
 
-You will need Node.js version 18.0 or above, git, and npm installed on your machine. If you don't have these or aren't sure, read the [environment setup guide](/environment-setup.md).
+You will need Node.js version 18.0 or above, git, and npm installed on your machine. If you don't have these or aren't sure, read the [environment setup guide](environment-setup.md).
 
 ### 2. Clone the repository
 

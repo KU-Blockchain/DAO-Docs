@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Overview
 ---
 
-# Welcome to the KU Blockchain Club DAO
+# Welcome to the KU Blockchain Institute DAO
 
 ## Overview
 

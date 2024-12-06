@@ -31,7 +31,7 @@ const sidebars = {
         "the-very-basics/understanding-blockchain",
         "the-very-basics/understanding-smart-contracts",
         "the-very-basics/understanding-tokens",
-         "the-very-basics/understanding-DAOs",
+        "the-very-basics/understanding-DAOs",
       ],
     },
     {
@@ -52,8 +52,9 @@ const sidebars = {
       label: "Contributing Code",
       items: [
         "contribute-code/overview",
-        "contribute-code/contribute-to-DAO",
+        "contribute-code/environment-setup",
         "contribute-code/contribute-to-docs",
+        "contribute-code/contribute-to-DAO",
       ],
     },
   ],

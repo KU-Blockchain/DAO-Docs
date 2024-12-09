@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+travel:
+  label: Travel
+  permalink: /travel
+  description: KUBI trips
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+history:
+  label: History
+  permalink: /history
+  description: Documenting KUBI's History
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+education:
+  label: Education
+  permalink: /education
+  description: Educational Resources
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+defi:
+  label: DeFi
+  permalink: /defi
+  description: DeFi Educational Resources
+
+future:
+  label: Future
+  permalink: /future
+  description: Explorations of concepts and technologies that will shape the future

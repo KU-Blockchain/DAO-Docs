@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: zero-privacy-to-zero-knowledge
 title: A Zero Privacy to Zero Knowledge Society
 authors: [daniel_jones]
-tags: []
+tags: [future]
 ---
 
 This blog post examines the current landscape of data privacy and the transformative potential of zero-knowledge proofs to enhance security and trust without sacrificing personal information. It highlights the work of the KU Blockchain Institute in developing blockchain technologies that could lead to a society where personal data is protected and verified through innovative cryptographic methods, promoting a shift from a zero privacy to a zero-knowledge society.

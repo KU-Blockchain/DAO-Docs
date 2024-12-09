@@ -2,7 +2,7 @@
 slug: nature-of-bitcoin
 title: The Nature of Bitcoin - Can It Be Money, an Asset, or Neither?
 authors: [grant_henry]
-tags: []
+tags: [future, defi]
 ---
 
 This blog post by Grant Henry explores the potential of Bitcoin to revolutionize financial systems by acting as a decentralized alternative to traditional currency, backed by blockchain technology. It delves into Bitcoin's properties as money, its challenges in volatility and adoption, and the broader implications for industries beyond just finance.

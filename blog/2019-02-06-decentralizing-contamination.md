@@ -3,7 +3,7 @@ sidebar_position: 3
 slug: decentralizing-contamination
 title: Decentralizing Contamination - Disrupting or Enhancing Food Safety
 authors: daniel_jones
-tags: [hello, docusaurus]
+tags: [future]
 ---
 
 This blog discusses the potential of blockchain technology to revolutionize supply chain management, particularly in ensuring food safety by enabling traceability from farm to fork. It highlights the challenges of adopting this technology, including resistance from entrenched players and the need for scalable solutions.

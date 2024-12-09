@@ -9,7 +9,7 @@ sidebar_label: Overview
 
 The KU Blockchain Institute DAO is a decentralized autonomous organization designed to empower club members by facilitating democratic participation in decision-making processes and task management. Built entirely from scratch in 2023-2024, this platform leverages blockchain technology to ensure transparency, accountability, and efficiency.
 
-You can read about the [history of the DAO here](../../blog/2024-12-05-history-of-the-KUBI-DAO.md).
+You can read about the [history of the DAO here](blog/2024-12-05-history-of-the-KUBI-DAO.md).
 
 ## Primary Purposes of the DAO
 

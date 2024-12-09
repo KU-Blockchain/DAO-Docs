@@ -2,7 +2,7 @@
 slug: history-of-the-KUBI-DAO
 title: History of the KUBI DAO
 authors: [emma_nasseri, micah_borghese, hudson_headley]
-tags: []
+tags: [history]
 ---
 
 As our KUBI community continues to grow, we realize how important it is to document the history and journey of this growth and preserve everything we've learned for the leaders that come after us.

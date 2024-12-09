@@ -3,7 +3,7 @@ sidebar_position: 2
 slug: future-of-finance
 title: The Future of Finance
 authors: [tristan_miller]
-tags: []
+tags: [future]
 ---
 
 In "The Future of Finance" by Tristan Miller, the blog post imagines a hypothetical bank with ideal financial conditions, using this vision to showcase the transformative potential of blockchain technology in creating secure, efficient, and equitable financial systems.

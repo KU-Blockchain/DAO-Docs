@@ -19,22 +19,40 @@ There are a lot of advantages to the KUBI DAO, but
 2. **Empowering Developers**: Giving members structured opportunities for hands-on learning and experimentation in web3 through open source contribution.
 3. **Incentivizing Learning and Engagement**: Rewarding the effort and impact that simple contributions like learning and attending meetings have on our community.
 
-### Key Features
+## Key Features
+
+### **Dashboard**
 
 ![Dashboard](./img/DAO-screenshots/dashboard.png)
-**Dashboard**: On the Dashboard page, members can access and review the DAO constitution, which outlines KUBI's governance rules and operational guidelines. There is also a leaderboard that tracks and displays member contributions and activity within the DAO.
+
+On the Dashboard page, members can access and review the DAO constitution, which outlines KUBI's governance rules and operational guidelines. There is also a leaderboard that tracks and displays member contributions and activity within the DAO.
+
+### **Task Manager**
 
 ![Task Manager](./img/DAO-screenshots/taskboard.png)
 
-**Task Manager**: Members can view and take on various tasks needed by the club. Each task includes a title, a detailed description, and an associated bounty in KUBIX tokens, which are calculated based on the task's estimated difficulty and time required.
+Members can view and take on various tasks needed by the club. Each task includes a title, a detailed description, and an associated bounty in KUBIX tokens, which are calculated based on the task's estimated difficulty and time required.
+
+### **Voting Platform**
 
 ![Voting Platform](./img/DAO-screenshots/dd_voting.png)
-**Voting Platform**: Our DAO supports robust voting mechanisms:
+
+There are two types of votes within the DAO:
 
 - **Direct Democracy**: Every member has a vote on decisions impacting the club like elections for the executive team, ensuring each voice is heard.
 - **Participation-Based Voting**: Votes are weighted based on members' participation and contributions, promoting active involvement.
 
-**Education Hub**: Also known as the Learn and Earn page, this part of the DAO has a series of bounties for members just getting started, so that even if they don't know anything about blockchain, they can be rewarded for the effort it takes to the basics.
+### **Education Hub**
+
+![Education Hub](./img/DAO-screenshots/education_hub.png)
+
+Also known as the Learn and Earn page, this part of the DAO has a series of bounties for members just getting started, so that even if they don't know anything about blockchain, they can be rewarded for the effort it takes to the basics.
+
+### **Profile Hub**
+
+![Profile Hub](./img/DAO-screenshots/profile_hub.png)
+
+Here is an example of the profile hub, which will look different for every user. This is where members can track their individual progress, current claimed tasks,
 
 ### Getting Started
 
@@ -45,6 +63,6 @@ There are a lot of advantages to the KUBI DAO, but
 5. **View the Constitution**: Familiarize yourself with the rules and ethos governing our club.
 6. **Check the Leaderboard**: See how you stack up against other members in contributions.
 
-Whether you're new to blockchain or a seasoned enthusiast, our platform is designed to ensure you can easily participate and contribute to the governance of our club. Dive in and start engaging with your club like never before!
+No matter what level of blockchain knowledge you come in with, the DAO is designed to ensure you can easily participate and contribute to the governance of our community.
 
 For detailed instructions on each feature, refer to the subsequent sections of this documentation.

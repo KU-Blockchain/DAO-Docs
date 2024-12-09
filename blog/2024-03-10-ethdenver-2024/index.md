@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
 slug: ethdenver-2024
-title: Adventures at ETHDenver 2024
+title: ETHDenver 2024 Travel Diary
 authors: emma_nasseri
 tags: [travel, history]
 ---
 
-# In February 2024, the University of Kansas Blockchain Institute's Adventure at ETHDenver
+# ETHDenver 2024 Travel Diary
 
 In February 2024, the University of Kansas Blockchain Institute was able to take eleven members to [ETHDenver: a Community Innovation Festival](https://www.ethdenver.com/) offering a unique opportunity to explore blockchain technology with education, #BUIDLing, showcases, and special events.
 

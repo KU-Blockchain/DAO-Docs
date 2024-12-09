@@ -1,12 +1,12 @@
 ---
 sidebar_position: 2
 slug: ethglobal_sf_2024
-title: Adventures at ETHGlobal SF 2024
+title: ETHGlobal SF 2024 Travel Diary
 authors: micah_borghese
 tags: [travel, history]
 ---
 
-# San Francisco Trip 2024
+# ETHGlobal SF 2024 Travel Diary
 
 From October 16th to the 21st, the **University of Kansas Blockchain Institute** was able to bring 13 students to San Francisco, California. The purpose of this trip was to tour leading tech organizations such as _Google_, _Ripple_, and the _Internet Archive_. These tours provide an opportunity for students to learn from industry leaders in blockchain, fintech, and digital archiving. KUBI also attended [ETHGlobal San Francisco 2024](https://ethglobal.com/events/sanfrancisco2024): a blockchain hackathon bringing together developers, engineers, and innovators from around the world to collaborate on building decentralized applications, tools, and protocols.
 

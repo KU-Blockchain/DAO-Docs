@@ -1,12 +1,12 @@
 ---
 sidebar_position: 3
 slug: zurich-2024
-title: UBRI Connect 2024
+title: UBRI Connect 2024 Travel Diary
 authors: [emma_nasseri, micah_borghese]
 tags: [travel, history]
 ---
 
-# KU Blockchain Institute Students Shine at Ripple's UBRI Connect in Zurich
+# UBRI Connect 2024 Travel Diary
 
 This October, part of KUBI's core leadership team traveled to Zurich, Switzerland for Ripple's University Blockchain Research Initiative (UBRI) Connect Conference. [UBRI Connect](https://www.ubriconnect.com/), hosted by Ripple, brings together scholars, researchers, and thought leaders from across the globe to showcase and celebrate exceptional blockchain research and innovation.
 

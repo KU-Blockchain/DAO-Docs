@@ -10,6 +10,8 @@ tags: [travel, history]
 
 From October 16th to the 21st, the **University of Kansas Blockchain Institute** was able to bring 13 students to San Francisco, California. The purpose of this trip was to tour leading tech organizations such as _Google_, _Ripple_, and the _Internet Archive_. These tours provide an opportunity for students to learn from industry leaders in blockchain, fintech, and digital archiving. KUBI also attended [ETHGlobal San Francisco 2024](https://ethglobal.com/events/sanfrancisco2024): a blockchain hackathon bringing together developers, engineers, and innovators from around the world to collaborate on building decentralized applications, tools, and protocols.
 
+![KUBI + Harry and Matt @ Google HQ (Googleplex Building)](google_group_photo.jpeg)
+
 <!-- truncate -->
 
 ## Epic Outcomes
@@ -50,8 +52,6 @@ We took the CalTrain down to Mountain View and visited some Googlers from Kansas
 We took the CalTrain back to SF with a quick stop in Palo Alto before we headed to the Palace of Fine Arts for the ETHGlobal SF hackathon kickoff!
 
 We started hacking at 9pm on Friday, with a few quick breaks for free food trucks, swag pick-ups at the booths, and midnight boba tea and mochi donuts! 🍩🧋
-
-![KUBI + Harry and Matt @ Google HQ (Googleplex Building)](google_group_photo.jpeg)
 
 # Days 3 and 4
 

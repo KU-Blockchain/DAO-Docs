@@ -10,6 +10,8 @@ tags: [travel, history]
 
 In February 2024, the University of Kansas Blockchain Institute was able to take eleven members to [ETHDenver: a Community Innovation Festival](https://www.ethdenver.com/) offering a unique opportunity to explore blockchain technology with education, #BUIDLing, showcases, and special events.
 
+![On the last day, the team took a break from the networking and hacking to enjoy beautiful Colorado!](hiking_kubi.jpg)
+
 <!-- truncate -->
 
 ## Core Community Outcomes
@@ -22,8 +24,6 @@ In February 2024, the University of Kansas Blockchain Institute was able to take
 - Overall, **education** and **exposure** across the board to new applications of blockchain in DePIN, Zero Knowledge, Attestation, and web3.
 - **70+ new connections** in the industry.
 - Four new connections who live in **Kansas**!
-
-![On the last day, the team took a break from the networking and hacking to enjoy beautiful Colorado!](hiking_kubi.jpg)
 
 Additionally, KU Blockchain has now been approved to establish official partnerships with [Cabin](https://cabin.city/), [Filecoin](https://filecoin.io/), and several other companies!
 

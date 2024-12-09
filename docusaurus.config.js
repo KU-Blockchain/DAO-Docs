@@ -12,7 +12,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "KUBI as a Decentralized Autonomous Organization",
   tagline:
-    "Complete documentation for the KUBI DAO: a Decentralized Autonomous Organization founded at the University of Kansas",
+    "Complete documentation for the KUBI DAO: a Decentralized Autonomous Organization at the University of Kansas",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here

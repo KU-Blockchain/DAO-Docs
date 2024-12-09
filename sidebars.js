@@ -31,6 +31,7 @@ const sidebars = {
         "the-very-basics/understanding-blockchain",
         "the-very-basics/understanding-smart-contracts",
         "the-very-basics/understanding-tokens",
+        "the-very-basics/understanding-wallets",
         "the-very-basics/understanding-DAOs",
       ],
     },

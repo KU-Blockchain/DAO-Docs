@@ -2,6 +2,8 @@
 
 This October, two promising students from the University of Kansas Blockchain Institute (KUBI), Emma Nasseri and Micah Borghese, journeyed to Zurich, Switzerland to participate in Ripple's prestigious UBRI Connect Conference. UBRI Connect, hosted by Ripple, brings together scholars, researchers, and thought leaders from across the globe to showcase and celebrate exceptional blockchain research and innovation.
 
+<!-- truncate -->
+
 The conference was held in the scenic city of Zurich, a global hub for finance and technology. The students also took the opportunity to explore the beautiful nearby city of Lucerne, enjoying its historic sites and picturesque lake views.
 
 During the event, Emma Nasseri was honored with the UBRI Impact Award for her outstanding leadership in directing the Kansas Blockchain Fellowship. This initiative, a seven-week scholarship program and talent incubator, prepares students in Kansas for careers in blockchain technology and web3, fostering a new generation of tech innovators.

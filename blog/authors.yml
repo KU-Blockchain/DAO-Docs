@@ -32,3 +32,30 @@ hudson_headley:
   socials:
     x: hudsonhrh
     github: hudsonhrh
+
+daniel_jones:
+  name: Daniel Jones
+  title: 2018-2020 KUBI Co-founder & President
+  url: https://www.linkedin.com/in/danieljonesku/
+  image_url: /img/headshots/daniel_jones.jpeg
+  page: true
+  socials:
+    linkedin: danieljonesku
+
+tristan_miller:
+  name: Tristan Miller
+  title: Fall 2019 Chief of Staff
+  url: https://www.linkedin.com/in/tristan-m-76546ab7/
+  image_url: /img/headshots/kubi_logo.png
+  page: true
+  socials:
+    linkedin: tristan-m-76546ab7
+
+grant_henry:
+  name: Grant Henry
+  title: 2020-2021 Director of Internal Operations
+  url: https://www.linkedin.com/in/grant-henry-8ba74316b/
+  image_url: /img/headshots/grant_henry.jpeg
+  page: true
+  socials:
+    linkedin: grant-henry-8ba74316b

@@ -77,7 +77,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "KUBI DAO Docs",
+        title: "KU Blockchain Institute",
         logo: {
           alt: "KUBI DAO Logo",
           src: "img/kubi_logo.png",

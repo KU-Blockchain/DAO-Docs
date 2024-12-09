@@ -21,18 +21,20 @@ There are a lot of advantages to the KUBI DAO, but
 
 ### Key Features
 
-- **Task Manager**: Members can view and take on various tasks needed by the club. Each task includes a title, a detailed description, and an associated bounty in KUBIX tokens, which are calculated based on the task's estimated difficulty and time required.
+![Dashboard](./img/DAO-screenshots/dashboard.png)
+**Dashboard**: On the Dashboard page, members can access and review the DAO constitution, which outlines KUBI's governance rules and operational guidelines. There is also a leaderboard that tracks and displays member contributions and activity within the DAO.
 
-- **Voting Platform**: Our DAO supports robust voting mechanisms:
+![Task Manager](./img/DAO-screenshots/taskboard.png)
 
-  - **Direct Democracy**: Every member has a vote on decisions impacting the club, ensuring each voice is heard.
-  - **Participation-Based Voting**: Votes are weighted based on members' participation and contributions, promoting active involvement.
+**Task Manager**: Members can view and take on various tasks needed by the club. Each task includes a title, a detailed description, and an associated bounty in KUBIX tokens, which are calculated based on the task's estimated difficulty and time required.
 
-- **Elections**: Club elections are conducted through the DAO, ensuring a fair and transparent process for electing club officers and decision-makers.
+![Voting Platform](./img/DAO-screenshots/dd_voting.png)
+**Voting Platform**: Our DAO supports robust voting mechanisms:
 
-- **DAO Constitution**: Members can access and review the DAO constitution, which outlines the governance rules and operational guidelines of our club.
+- **Direct Democracy**: Every member has a vote on decisions impacting the club like elections for the executive team, ensuring each voice is heard.
+- **Participation-Based Voting**: Votes are weighted based on members' participation and contributions, promoting active involvement.
 
-- **Leaderboard**: A dynamic leaderboard that tracks and displays member contributions and activity within the DAO, fostering a competitive and collaborative environment.
+**Education Hub**: Also known as the Learn and Earn page, this part of the DAO has a series of bounties for members just getting started, so that even if they don't know anything about blockchain, they can be rewarded for the effort it takes to the basics.
 
 ### Getting Started
 

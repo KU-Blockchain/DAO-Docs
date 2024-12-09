@@ -16,7 +16,7 @@ This October, part of KUBI's core leadership team traveled to Zurich, Switzerlan
 
 The conference was held in the scenic city of Zurich, Switzerland a global hub for finance and technology. It featured world-class speakers and researchers from Stanford, Berkeley, National University of Singapore, Ripple, XRPL Commons, and more.
 
-During the event, Emma Nasseri was honored with the [UBRI Impact Award](https://i2s-research.ku.edu/news/article/ku-student-receives-leadership-award-for-blockchain-research-initiative-on-international-stage) for her outstanding leadership in directing the [Kansas Blockchain Fellowship](kansasblockchain.org). This initiative, a seven-week scholarship program and talent incubator, prepares students in Kansas for careers in blockchain technology and web3, fostering a new generation of tech innovators. You can [read more about KBF here](kbf-2024).
+During the event, Emma Nasseri was honored with the [UBRI Impact Award](https://i2s-research.ku.edu/news/article/ku-student-receives-leadership-award-for-blockchain-research-initiative-on-international-stage) for her outstanding leadership in directing the [Kansas Blockchain Fellowship](https://www.kansasblockchain.org/). This initiative, a seven-week scholarship program and talent incubator, prepares students in Kansas for careers in blockchain technology and web3, fostering a new generation of tech innovators. You can [read more about KBF here](kbf-2024).
 
 ![UBRI Award](ubri_award.jpeg)
 

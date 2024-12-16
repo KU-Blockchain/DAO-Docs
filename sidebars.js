@@ -40,12 +40,11 @@ const sidebars = {
       label: "Get Started with the DAO",
       items: [
         "get-started/overview",
-        "get-started/create-an-account",
         "get-started/dao-tokens",
-        "get-started/claiming-tasks",
-        "get-started/submitting-tasks",
-        "get-started/leaderboard",
+        "get-started/create-an-account",
         "get-started/learn-and-earn",
+        "get-started/completing-tasks",
+        "get-started/leaderboard",
       ],
     },
     {

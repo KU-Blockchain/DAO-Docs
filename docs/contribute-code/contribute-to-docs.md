@@ -132,8 +132,4 @@ KUBI-DAO-docs
   - Automatically generated for any operations where npm modifies either the node_modules tree or package.json. It captures the exact version of each installed package that should be used, along with the version of its dependencies, ensuring consistency across installations.
 
 - **`/sidebars.js`**
-  - Used by the documentation to specify the order of documents in the
-
-```
-
-```
+  - Used by the documentation to specify the order of documents in the sidebar

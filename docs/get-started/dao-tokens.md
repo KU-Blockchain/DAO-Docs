@@ -7,7 +7,7 @@ sidebar_label: Tokens of the DAO
 
 While you don't need a deep understanding of KUBI tokens to use the DAO, this is a helpful introduction to understanding the basics of what these tokens are, how they work, and why they are important. There are 3 three main tokens used in the DAO: KUBIX tokens, Executive NFTs, and Direct Democracy tokens.
 
-> **Important Note:** None of these tokens have any monetary value. They are just designed to ensure fair voting, participation tracking, and admin priviliges.
+> **Important Note:** None of these tokens have any monetary value. They are just designed to ensure fair voting, participation tracking, and admin privileges.
 
 ## First, what are Tokens?
 

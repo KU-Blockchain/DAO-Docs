@@ -6,9 +6,9 @@ authors: [emma_nasseri]
 tags: [history]
 ---
 
-# Highlights from Cohort 1.0 of the Kansas Blockchain Fellowhsip
+# Highlights from Cohort 1.0 of the Kansas Blockchain Fellowship
 
-This year, the leadership team of the KU Blockchain Institute launched the Kansas Blockchain Fellowshp: a seven-week experiential learning-intensive, scholarship program, and talent incubator to prepare students in Kansas for careers in blockchain and web3.
+This year, the leadership team of the KU Blockchain Institute launched the Kansas Blockchain Fellowship: a seven-week experiential learning-intensive, scholarship program, and talent incubator to prepare students in Kansas for careers in blockchain and web3.
 
 You can watch our full **[Program Recap here](https://www.youtube.com/watch?v=NCb_VALLJcw)**
 
@@ -20,11 +20,11 @@ The program is designed to give exceptional students in the Midwest deep knowled
 
 16 students were selected for Cohort 1.0, which received support and educational materials from [Pinata](https://pinata.cloud/), [Ripple](https://ripple.com/), and [a16z crypto](https://a16zcrypto.com/).
 
-Emma Nasseri, president of the KU Blockchain Institute and a final year KU honors computer science and visual arts student, led the design and planning process for KBF. “I’m so excited to see what doors open for students because of this opportunity to learn and independently build on blockchain,” says Nasseri. “We have an incredible community of students, researchers, and industry leaders with roots in Kansas, committed to supporting this cause and driving blockchain education and adoption in the Midwest.
+Emma Nasseri, President of the KU Blockchain Institute and a final year KU honors Computer Science and Visual Arts student, led the design and planning process for KBF. “I’m so excited to see what doors open for students because of this opportunity to learn and independently build on blockchain,” says Nasseri. “We have an incredible community of students, researchers, and industry leaders with roots in Kansas, committed to supporting this cause and driving blockchain education and adoption in the Midwest."
 
-KBF consisted of:
+The program consisted of:
 
-- Classes every Thursday from 7 to 9 p.m. CST from June 11 through July 23 (meals are provided at every class)
+- Classes every Thursday from 7 to 9 p.m. CST from June 11 through July 23 (with meals provided at every class)
 - A scholarship for each participating student
 - A bonus, quadratically allocated award pool for outstanding projects
 - Unique portfolio-building and networking opportunities

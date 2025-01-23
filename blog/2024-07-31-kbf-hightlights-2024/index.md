@@ -2,7 +2,7 @@
 sidebar_position: 4
 slug: kbf-2024
 title: Highlights from Cohort 1.0 of the Kansas Blockchain Fellowship
-authors: []
+authors: [emma_nasseri]
 tags: [history]
 ---
 

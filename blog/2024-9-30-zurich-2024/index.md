@@ -2,7 +2,7 @@
 sidebar_position: 3
 slug: zurich-2024
 title: UBRI Connect 2024 Travel Diary
-authors: [emma_nasseri, micah_borghese]
+authors: [emma_nasseri]
 tags: [travel, history]
 ---
 

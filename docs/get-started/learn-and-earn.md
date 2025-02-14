@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-sidebar_label: learn and Earn
+sidebar_label: Learn and Earn
 ---
 
 # Learn and Earn
@@ -11,7 +11,7 @@ One of the best ways to begin earning KUBIX through the DAO is through the ['Lea
 
 ## Why We Have Education Modules
 
-One of the three main pillars of KUBI is blockchain education. We have designed these educational modules to kickstart your blockchain education journey. Each module covers basic topics, and members are **highly encouraged** to pursue further learning on their own. For a more in-depth exploration, members can visit the [KUBI Notion Page](https://kublockchain.notion.site/Foundations-of-Blockchain-7ff28f61d6c347feb624866d32f0242b) for thorough readings.
+One of the three main pillars of KUBI is Blockchain education. We have designed these educational modules to kickstart your education journey. Each module covers basic topics, and members are **highly encouraged** to pursue further learning on their own. For a more in-depth exploration, members can visit the [KUBI Notion Page](https://kublockchain.notion.site/Foundations-of-Blockchain-7ff28f61d6c347feb624866d32f0242b) for thorough readings.
 
 
 ## How to Complete
@@ -24,7 +24,7 @@ Click the 'Learn' button on any module to find the learning resource. After goin
 
 ## Who to Contact If Lost
 
-If you have questions or need guidance, feel free to contact our current Directors of Education, [Nischay Rawal](mailto:nrawal@ku.edu) and [Wolfgang Sell](mailto:wolfgangsell@ku.edu)
+If you have questions or need guidance, feel free to contact our current Directors of Education, [Nischay Rawal](mailto:nrawal@ku.edu) and [Wolfgang Sell](mailto:wolfgangsell@ku.edu).
 
 
 **Happy learning!**
